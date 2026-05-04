@@ -34,7 +34,7 @@ Proyecto desarrollado con **Node.js**, **TypeScript**, **Express** y **Mongoose*
 ### 1. Clonar el repositorio
 
 ```bash
-git clone <URL-del-repositorio>
+git clone https://github.com/CEPE1724/odm-actividad-3-and-4.git
 cd ODM_Actividad_3_and_4
 ```
 
